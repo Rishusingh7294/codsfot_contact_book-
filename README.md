@@ -1,21 +1,21 @@
-# 📒 Contact Book GUI App (Python + Tkinter)
+#  Contact Book GUI App (Python + Tkinter)
 
 A simple desktop-based **Contact Book** built using **Python's Tkinter** library.  
 You can add, view, delete, and search contacts with a friendly user interface.
 
 ---
 
-## ✨ Features
+##  Features
 
-- 🧑 Add new contacts (Name, Phone, Email, Address)
-- 📜 View list of all contacts
-- 🔍 Search contacts by name or phone number
-- 🗑️ Delete selected contact
-- 🪟 Easy-to-use GUI with Tkinter
+-  Add new contacts (Name, Phone, Email, Address)
+-  View list of all contacts
+-  Search contacts by name or phone number
+- 🗑 Delete selected contact
+-  Easy-to-use GUI with Tkinter
 
 ---
 
-## 📦 Requirements
+##  Requirements
 
 - Python 3.x
 
@@ -23,7 +23,7 @@ You can add, view, delete, and search contacts with a friendly user interface.
 
 ---
 
-## 🚀 How to Run
+##  How to Run
 
 1. Download or clone this repository
 2. Run the Python file:
